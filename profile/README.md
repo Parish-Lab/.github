@@ -17,3 +17,4 @@ For now, we will use this simple location to collect important organization-leve
 ### Useful Links
 
 - [2022 Summer Research Calendar](https://calendar.google.com/calendar/embed?src=carol.parish%40gmail.com&ctz=America%2FNew_York)
+- [Schedule of Group Meeting Computations](https://docs.google.com/spreadsheets/d/1aZQ_sEXDMgMrUMKsqHXIXUnHASEISRPQHqyG5171yQ4/edit?usp=sharing)
