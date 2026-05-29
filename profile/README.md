@@ -19,4 +19,4 @@ For now, we will use this simple location to collect important organization-leve
 
 - [Parish Lab Manual](https://github.com/Parish-Lab/lab-manual/blob/main/ParishLabManual_May2026.pdf)
 - [Schedule of Group Meeting Presentations](https://docs.google.com/spreadsheets/d/1ophPXBkSNJAk6aOH6wD2T36erpVvBDl9NNpIroGlrZ4/edit?gid=0#gid=0)
-- [Parish Lab Training Vidoes].(https://richmond.app.box.com/folder/322110731648?s=wkjzf6wflol7hl37clhfh99o5xk317ra)
+- [Parish Lab Training Vidoes](https://richmond.app.box.com/folder/322110731648?s=wkjzf6wflol7hl37clhfh99o5xk317ra)
